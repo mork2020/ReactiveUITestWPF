@@ -1,0 +1,16 @@
+﻿<reactiveui:ReactiveWindow  
+        x:Class="ReactiveUITestWPF.MainWindow"
+        x:TypeArguments="local:AppViewModel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReactiveUITestWPF"
+        xmlns:reactiveui="http://reactiveui.net"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock FontSize="16" FontWeight="SemiBold" Height="20"  VerticalAlignment="Top" Text="Search for: "/>
+        <TextBox Margin="100,0,0,0" x:Name="searchTextBox" Height="20" VerticalAlignment="Top" HorizontalAlignment="Stretch" />
+    </Grid>
+</reactiveui:ReactiveWindow>
