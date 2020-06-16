@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-U:\Daten\work\Recative\ReactiveUI.Avalonia\ReactiveUITestWPF\ReactiveUITestWPF\obj\Debug\netcoreapp3.1\
+U:\Daten\work\Recative\ReactiveUI.WPF\ReactiveUITestWPF\ReactiveUITestWPF\obj\Debug\netcoreapp3.1\
 ReactiveUITestWPF
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-U:\Daten\work\Recative\ReactiveUI.Avalonia\ReactiveUITestWPF\ReactiveUITestWPF\App.xaml
+U:\Daten\work\Recative\ReactiveUI.WPF\ReactiveUITestWPF\ReactiveUITestWPF\App.xaml
 11151548125
 
 6-672238926
 204-859999398
 MainWindow.xaml;
 
-True
+False
 

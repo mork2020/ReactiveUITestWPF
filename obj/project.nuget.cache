@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7xgGG4dD9zag0maltYSzLu7ruWQ7fYa3zQ4t0wGpd1JE1Qxk9ZbQccJdEXo+uan5GcBeHlPoGZSkKkEbS2Jx0Q==",
+  "dgSpecHash": "uJ7Sj15AvjwyJ5qxLUhaA7kVCyP8YJHfA3MwJfGoINkDeGSVxZcvKQz8rzJWPWw4HOy5BVtKEneOVneuEWmyzQ==",
   "success": true,
-  "projectFilePath": "U:\\Daten\\work\\Recative\\ReactiveUI.Avalonia\\ReactiveUITestWPF\\ReactiveUITestWPF\\ReactiveUITestWPF.csproj",
+  "projectFilePath": "U:\\Daten\\work\\Recative\\ReactiveUI.WPF\\ReactiveUITestWPF\\ReactiveUITestWPF\\ReactiveUITestWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pierre\\.nuget\\packages\\dynamicdata\\6.15.1\\dynamicdata.6.15.1.nupkg.sha512",
     "C:\\Users\\Pierre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

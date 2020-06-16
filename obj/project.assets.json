@@ -990,11 +990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\Daten\\work\\Recative\\ReactiveUI.Avalonia\\ReactiveUITestWPF\\ReactiveUITestWPF\\ReactiveUITestWPF.csproj",
+      "projectUniqueName": "U:\\Daten\\work\\Recative\\ReactiveUI.WPF\\ReactiveUITestWPF\\ReactiveUITestWPF\\ReactiveUITestWPF.csproj",
       "projectName": "ReactiveUITestWPF",
-      "projectPath": "U:\\Daten\\work\\Recative\\ReactiveUI.Avalonia\\ReactiveUITestWPF\\ReactiveUITestWPF\\ReactiveUITestWPF.csproj",
+      "projectPath": "U:\\Daten\\work\\Recative\\ReactiveUI.WPF\\ReactiveUITestWPF\\ReactiveUITestWPF\\ReactiveUITestWPF.csproj",
       "packagesPath": "C:\\Users\\Pierre\\.nuget\\packages\\",
-      "outputPath": "U:\\Daten\\work\\Recative\\ReactiveUI.Avalonia\\ReactiveUITestWPF\\ReactiveUITestWPF\\obj\\",
+      "outputPath": "U:\\Daten\\work\\Recative\\ReactiveUI.WPF\\ReactiveUITestWPF\\ReactiveUITestWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
